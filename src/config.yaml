@@ -1,0 +1,27 @@
+Lab_1:
+  airport: /home/victor/Datasets/Statistics/Lab_1/airportdat.txt
+  babyroom: /home/victor/Datasets/Statistics/Lab_1/babyboom.dat.txt
+
+Lab_2:
+  babyroom: /home/victor/Datasets/Statistics/Lab_2/babyboom.dat.txt
+  euroweight: /home/victor/Datasets/Statistics/Lab_2/euroweight.dat.txt
+  iris: /home/victor/Datasets/Statistics/Lab_2/iris.txt
+
+Lab_3: 
+  babyroom: /home/victor/Datasets/Statistics/Lab_3/babyboom.dat.txt
+  surgery: /home/victor/Datasets/Statistics/Lab_3/surgery.xlsx
+  iris: /home/victor/Datasets/Statistics/Lab_3/iris.txt
+  euroweight: /home/victor/Datasets/Statistics/Lab_2/euroweight.dat.txt
+
+Lab_4:
+  Kuiper: /home/victor/Datasets/Statistics/Lab_4/kuiper.xls  
+  HousePrice: /home/victor/Datasets/Statistics/Lab_4/house_price.csv 
+
+Lab_5:
+  Doctor: /home/victor/Datasets/Statistics/Lab_5/Doctor.xlsx
+  Cigarettes: /home/victor/Datasets/Statistics/Lab_6/cigarettes.dat.txt
+
+Lab_6:
+  Blood: /home/victor/Datasets/Statistics/Lab_6/blood.xlsx
+  Cigarettes: /home/victor/Datasets/Statistics/Lab_6/cigarettes.dat.txt
+  Kuiper: /home/victor/Datasets/Statistics/Lab_6/kuiper.xls  
